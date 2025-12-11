@@ -1,6 +1,6 @@
-# 📊 Market Risk Analysis
+#  Market Risk Analysis
 
-## 📌 Description
+##  Description
 
 This project provides several implementations for analyzing **market risk**, structured around three main areas:
 
